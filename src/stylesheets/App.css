@@ -9,7 +9,7 @@
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   font-size: calc(10px + 2vmin);
   margin-top: 2rem;
@@ -20,7 +20,29 @@ footer {
   width: 90vw;
 }
 
+.footer-info {
+  display: flex;
+  margin: 0 auto;
+  width: 500px;
+  justify-content: space-around;
+}
+
+.footer-info a {
+  margin: 10px;
+}
+
+.footer-info img {
+  transition: all 0.3s ease-in-out;
+  margin: 10px;
+}
+
+.footer-info img:hover {
+  margin: 7.5px;
+  width: 75px;
+  height: 75px;
+}
+
 .logo {
-  height: 10vmin;
+  height: 15vmin;
   pointer-events: none;
 }

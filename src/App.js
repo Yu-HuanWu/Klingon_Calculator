@@ -7,12 +7,19 @@ const App = () => {
   return (
     <div className="App">
       <header>
-        <img src="logo-full.png" className="logo" alt="App Academy" />
-        <p>Exit Exam: React</p>
+        <img src="klingonlogo.png" className="logo" alt="App Academy" />
       </header>
       <Calculator />
       <footer>
-        <p>Review the instructions in the README.</p>
+        <p>Created by Yu-Huan Wu</p>
+        <div className="footer-info">
+          <a href="https://github.com/Yu-HuanWu" target="_blank" title="My GitHub link" rel="noopener noreferrer">
+            <img src="githublogo.gif" alt="GitHub waving gif made by Yu-Huan Wu" height="70"/>
+          </a>
+          <a href="https://www.linkedin.com/in/yu-huan-wu" target="_blank" title="My LinkedIn. If you want to hire me just holler at me my dude" rel="noopener noreferrer">
+            <img src="linkedin.gif" alt="LinkedIn bouncing gif made by Yu-Huan Wu" height="70"/>
+          </a>
+        </div>
       </footer>
     </div>
   );
