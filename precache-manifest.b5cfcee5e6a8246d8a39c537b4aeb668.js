@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e9128b9ca85553a24ad2253405bd4e0",
+    "revision": "51465d740c07fdb6d875fda72482f9fa",
     "url": "/Klingon_Calculator/index.html"
   },
   {
