@@ -163,9 +163,9 @@ class Calculator extends React.Component {
       <div data-testid="display" className="display">{this.translate(this.state.display)}</div>
       
       <div className="number-inputs">
-      <div data-testid="display" className="display-num">{this.translate(this.state.num1)}</div>
+      <div data-testid="display" className="display-num">{this.state.num1.length === 0 ? <p>First Number</p> : this.translate(this.state.num1)}</div>
       <div className="selected-operation">{this.state.selectedop}</div>
-      <div data-testid="display" className="display-num">{this.translate(this.state.num2)}</div>
+      <div data-testid="display" className="display-num">{this.state.num2.length === 0 ? <p>Second Number</p> : this.translate(this.state.num2)}</div>
       </div>
 
       <div className="operation-selectors">

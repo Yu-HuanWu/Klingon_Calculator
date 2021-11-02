@@ -46,6 +46,11 @@
   overflow-x: scroll;
 }
 
+.display-num p {
+  font-size: calc(8px + 2vmin);
+  color: #acacac;
+}
+
 .display-num img {
   height: 50%;
 }
