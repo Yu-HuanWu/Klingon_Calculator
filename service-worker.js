@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Klingon_Calculator/precache-manifest.e71b219e9633789d99990dc60472cfe4.js"
+  "/Klingon_Calculator/precache-manifest.cc30b7ffe4e5d1954e190a485b1492a3.js"
 );
 
 self.addEventListener('message', (event) => {

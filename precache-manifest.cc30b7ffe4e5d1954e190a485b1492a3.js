@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d73cd39e15f5af83d82c254ef234335",
+    "revision": "2df5de8fabffdaa2b2430d8fb2200f02",
     "url": "/Klingon_Calculator/index.html"
   },
   {
-    "revision": "71b425921a5796ec150b",
-    "url": "/Klingon_Calculator/static/css/main.349a39fe.chunk.css"
+    "revision": "b1a4ca8ff6ef43866d2d",
+    "url": "/Klingon_Calculator/static/css/main.5b9dfe1e.chunk.css"
   },
   {
     "revision": "e77c6f9015b28f864311",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Klingon_Calculator/static/js/2.4ba506ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71b425921a5796ec150b",
+    "revision": "b1a4ca8ff6ef43866d2d",
     "url": "/Klingon_Calculator/static/js/main.08ccdd22.chunk.js"
   },
   {
