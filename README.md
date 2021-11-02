@@ -1,4 +1,4 @@
-# Klingon Calculator
+# [Klingon Calculator](https://yu-huanwu.github.io/Klingon_Calculator/)
 
 ## Background
 

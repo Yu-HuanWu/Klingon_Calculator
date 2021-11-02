@@ -1,7 +1,6 @@
 import React from "react";
 
 class Calculator extends React.Component {
-  // Your code here
   constructor(props) {
     super(props);
     this.state = {
@@ -41,8 +40,8 @@ class Calculator extends React.Component {
     })
   }
 
-  handleAdd(num1, num2) {
-    // e.preventDefault();
+  handleAdd(e) {
+    e.preventDefault();
     this.setState({selectedop: '+'})
   }
 
@@ -205,5 +204,8 @@ class Calculator extends React.Component {
     );
   }
 }
+
+//Because index.html is located in public, and github page cannot read /public, 
+//remember to look at package.json and do npm run deploy
 
 export default Calculator;

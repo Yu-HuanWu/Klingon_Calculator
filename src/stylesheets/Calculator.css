@@ -134,3 +134,120 @@ button:active{
 .clear:active {
   background: #880010;
 }
+
+@media only screen and (max-width: 800px) {
+
+  .main {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .display img {
+    height: 60%;
+  }
+
+  .display-num {
+    height: 80%;
+  }
+
+  .display-num img {
+    height: 60%;
+  }
+
+  .keyboard {
+    padding: 10px;
+  }
+
+  .keyboard-container:first-child{
+    position: absolute;
+    right: -5px;
+    top: 20px;
+  }
+
+  .keyboard-container:last-child{
+    position: absolute;
+    left: -5px;
+    top: 20px;
+  }
+
+  .calculator {
+    position: absolute;
+    top: -280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    background: #1c1c1c;
+    border-radius: .4rem;
+    width: 100vw;
+    height: 40vh;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    padding: 0rem;
+    font-size: calc(10px + 2vmin);
+  }
+}
+
+@media only screen and (max-width: 320px) {
+
+  .main {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .display img {
+    height: 60%;
+  }
+
+  .display-num {
+    height: 80%;
+  }
+
+  .display-num img {
+    height: 50%;
+  }
+
+  .keyboard {
+    padding: 10px;
+    width: 50%;
+  }
+
+  .keyboard button {
+    width: 2.8rem;
+  }
+
+  .keyboard-container:first-child{
+    position: absolute;
+    right: -5px;
+    top: 15px;
+    width: 50vw;
+  }
+
+  .keyboard-container:last-child{
+    position: absolute;
+    left: -5px;
+    top: 15px;
+    width: 50vw;
+  }
+
+  .calculator {
+    position: absolute;
+    top: -215px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    background: #1c1c1c;
+    border-radius: .4rem;
+    width: 100vw;
+    height: 40vh;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    padding: 0rem;
+    font-size: calc(10px + 2vmin);
+  }
+}
