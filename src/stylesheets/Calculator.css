@@ -164,6 +164,7 @@ button:active{
     position: absolute;
     right: -5px;
     top: 20px;
+    z-index: 3;
   }
 
   .keyboard-container:last-child{
@@ -174,7 +175,7 @@ button:active{
 
   .calculator {
     position: absolute;
-    top: -280px;
+    top: -250px;
     display: flex;
     flex-direction: column;
     align-items: center;
