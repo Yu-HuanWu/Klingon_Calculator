@@ -4,7 +4,7 @@
 
 _qavan_! 
 
-This is a calculator that uses Klingon numberals. This app works because Klingon just
+This is a calculator that uses Klingon numerals. This app works because Klingon just
 happens to use a base 10 number system, which is familiar to most Earthlings. Which number
 is 4? Which one is 7? You will figure it out in no time _jup_!
 
