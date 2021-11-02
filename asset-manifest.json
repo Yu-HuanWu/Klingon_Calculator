@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Klingon_Calculator/static/css/main.c56c3e70.chunk.css",
-    "main.js": "/Klingon_Calculator/static/js/main.80e565cc.chunk.js",
-    "main.js.map": "/Klingon_Calculator/static/js/main.80e565cc.chunk.js.map",
+    "main.css": "/Klingon_Calculator/static/css/main.349a39fe.chunk.css",
+    "main.js": "/Klingon_Calculator/static/js/main.08ccdd22.chunk.js",
+    "main.js.map": "/Klingon_Calculator/static/js/main.08ccdd22.chunk.js.map",
     "runtime-main.js": "/Klingon_Calculator/static/js/runtime-main.9aeee881.js",
     "runtime-main.js.map": "/Klingon_Calculator/static/js/runtime-main.9aeee881.js.map",
     "static/js/2.4ba506ce.chunk.js": "/Klingon_Calculator/static/js/2.4ba506ce.chunk.js",
     "static/js/2.4ba506ce.chunk.js.map": "/Klingon_Calculator/static/js/2.4ba506ce.chunk.js.map",
     "index.html": "/Klingon_Calculator/index.html",
-    "precache-manifest.626dba3a8a5ee87f21cc8226c7a9fa34.js": "/Klingon_Calculator/precache-manifest.626dba3a8a5ee87f21cc8226c7a9fa34.js",
+    "precache-manifest.e71b219e9633789d99990dc60472cfe4.js": "/Klingon_Calculator/precache-manifest.e71b219e9633789d99990dc60472cfe4.js",
     "service-worker.js": "/Klingon_Calculator/service-worker.js",
-    "static/css/main.c56c3e70.chunk.css.map": "/Klingon_Calculator/static/css/main.c56c3e70.chunk.css.map",
+    "static/css/main.349a39fe.chunk.css.map": "/Klingon_Calculator/static/css/main.349a39fe.chunk.css.map",
     "static/js/2.4ba506ce.chunk.js.LICENSE.txt": "/Klingon_Calculator/static/js/2.4ba506ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9aeee881.js",
     "static/js/2.4ba506ce.chunk.js",
-    "static/css/main.c56c3e70.chunk.css",
-    "static/js/main.80e565cc.chunk.js"
+    "static/css/main.349a39fe.chunk.css",
+    "static/js/main.08ccdd22.chunk.js"
   ]
 }
