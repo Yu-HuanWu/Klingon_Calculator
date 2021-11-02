@@ -71,6 +71,11 @@ footer {
     margin: 0 auto;
   }
 
+  footer p {
+    margin: 0;
+    padding: 0;
+  }
+
   .footer-info {
     display: flex;
     margin: 0 auto;
@@ -81,11 +86,15 @@ footer {
   .footer-info img {
     height: 40px;
     width: 40px;
+    margin: 0;
+    padding: 0;
   }
 
   .footer-info img:hover {
     width: 45px;
     height: 45px;
+    margin: 0;
+    padding: 0;
   }
 }
 
