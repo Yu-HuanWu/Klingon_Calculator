@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+	<title>New Project</title>
+	<defs>
+		<image  width="60" height="60" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAAAXNSR0IB2cksfwAAAJlQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////1R0EVAAAADN0Uk5TACW9/81YxPWOsexywmnzrfd7top5I1aAyaru4qOf5ypfcNCDy5UeflRtSOCT3pFkNS5NKKkazgAAAVlJREFUeJzt191SgkAYBmDgNUhRM0pAzEwtTMyk7v/iYiGHj5/9o3E64T3R3dlnlsVPdjGMq8U0u1sLGHSkNzayOLdd7BC/GbnadowyE007Bc2dlp2hmvs/WJ25pw2rvu5xiwXU7rnXajFSsQ/tFlCpFoeH8Si1A64F5hLrCywCCQ5FWHLHF2xIFC7DaplET6uIfT6L7JqNKMqB6rw4fXZRLwK8IZdW6ktpZsUzFOAtLcMZnTdPVrY7rl1U/gC7wr6WPa5g1dmK32g7f5Y4tCfgr3oOxLS9Z9iiPTHwzpv6kFSaTWwke56tpwWrp8c97nGP/xmvGD52xMf8of/RhfqX3TaI5YNrscgumciH0yQ23Z5PWjpGLTpXvqlj2WmEZlvHiuc/ls8CRKHnhVHxfamMT9lo+5wWjfSc37wvRWvWq5L9bN+KOG0czifAQREbTuNo7nZ9RbpSfgAWehXNyNcijQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 13" href="#img1" x="0" y="0" />
+</svg>
