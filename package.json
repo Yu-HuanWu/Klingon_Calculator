@@ -2,7 +2,7 @@
   "name": "Klingon_calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yu-huanwu.github.io/Klingon_Calculator/",
+  "homepage": "https://yu-huanwu.github.io/",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^16.13.1",
