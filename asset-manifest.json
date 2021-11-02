@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Klingon_Calculator/static/css/main.5b9dfe1e.chunk.css",
+    "main.css": "/Klingon_Calculator/static/css/main.891b9b96.chunk.css",
     "main.js": "/Klingon_Calculator/static/js/main.08ccdd22.chunk.js",
     "main.js.map": "/Klingon_Calculator/static/js/main.08ccdd22.chunk.js.map",
     "runtime-main.js": "/Klingon_Calculator/static/js/runtime-main.9aeee881.js",
@@ -8,15 +8,15 @@
     "static/js/2.4ba506ce.chunk.js": "/Klingon_Calculator/static/js/2.4ba506ce.chunk.js",
     "static/js/2.4ba506ce.chunk.js.map": "/Klingon_Calculator/static/js/2.4ba506ce.chunk.js.map",
     "index.html": "/Klingon_Calculator/index.html",
-    "precache-manifest.cc30b7ffe4e5d1954e190a485b1492a3.js": "/Klingon_Calculator/precache-manifest.cc30b7ffe4e5d1954e190a485b1492a3.js",
+    "precache-manifest.abf61c20ae21020caa567f0226b29b8a.js": "/Klingon_Calculator/precache-manifest.abf61c20ae21020caa567f0226b29b8a.js",
     "service-worker.js": "/Klingon_Calculator/service-worker.js",
-    "static/css/main.5b9dfe1e.chunk.css.map": "/Klingon_Calculator/static/css/main.5b9dfe1e.chunk.css.map",
+    "static/css/main.891b9b96.chunk.css.map": "/Klingon_Calculator/static/css/main.891b9b96.chunk.css.map",
     "static/js/2.4ba506ce.chunk.js.LICENSE.txt": "/Klingon_Calculator/static/js/2.4ba506ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9aeee881.js",
     "static/js/2.4ba506ce.chunk.js",
-    "static/css/main.5b9dfe1e.chunk.css",
+    "static/css/main.891b9b96.chunk.css",
     "static/js/main.08ccdd22.chunk.js"
   ]
 }
